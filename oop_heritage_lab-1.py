@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# 09-inheritance-1.py
-
 # The code below shows how a class can inherit from another class.
 # We have two classes, `Date` and `Time`. Here `Time` inherits from
 # `Date`.

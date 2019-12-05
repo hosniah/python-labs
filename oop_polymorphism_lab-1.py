@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# 11-polymorphism-1.py
-
 # Polymorphism means having the same interface/attributes in different
 # classes.
 

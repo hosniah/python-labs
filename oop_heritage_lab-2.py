@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# 10-inheritance-2.py
-
 # The code below shows another example of inheritance
 # Dog and Cat are two classes which inherits from Animal.
 # This an instance created from Dog or Cat can access the methods
