@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 
 '''
-Exercice
+Exercice:
+
 Créer un programme qui demande à l’utilisateur d’entrer son nom et son âge. 
 Imprimez un message qui leur dit l’année où ils auront 100 ans.
+
 '''
 
 
