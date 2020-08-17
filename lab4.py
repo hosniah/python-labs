@@ -1,0 +1,6 @@
+# 1)
+print(list(range(4)))
+# 2)
+print(list(range(4,8)))
+# 3)
+print(list(range(2,9,2)))
